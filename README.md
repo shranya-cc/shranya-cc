@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shranya-cc
+- 👋 Hi, I’m Shranya Dutta 
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...data analysis and business analysis
 - 📫 How to reach me ...through linked in profile
