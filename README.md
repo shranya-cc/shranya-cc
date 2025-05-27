@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shranya-cc
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c++,dsa and azure
+- 🌱 I’m currently learning ...data analysis and business analysis
 - 📫 How to reach me ...through linked in profile
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i'm useless lol
