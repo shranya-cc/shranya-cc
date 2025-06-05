@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shranya Dutta 
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...data analysis and business analysis
+- 🌱 I’m currently learning ...data analysis, business analysis, product analysis
 - 📫 How to reach me ...through linked in profile
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i'm useless lol
