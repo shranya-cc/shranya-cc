@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...data analysis, business analysis, product analysis
 - 📫 How to reach me ...through linked in profile
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...i'm useless lol
+- ⚡ Fun fact: ...i try to build projects as many as possible lol
 
 <!---
 shranya-cc/shranya-cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
